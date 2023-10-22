@@ -1,0 +1,47 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: voiceAssistant-flutter
+  role: Primary Developer - Flutter, Dart, OPENAI API
+  duration: June'7 2023 &mdash; June'11 2023
+  url: "https://github.com/harsh082ip/voiceAssistant_flutter"
+  description: A voice Assistant Application powered by OPENAI API, which give responses on basis of the prompt
+
+# Springfield Community Outreach Group
+- project: Chat_Application-flutter
+  role: Primary Developer - Flutter, Dart, Firebase
+  duration: Sep'19 2023 &mdash; Oct'8 2023
+  url: "https://github.com/harsh082ip/Chat_Application-flutter"
+  description: A full fledged chatting application with sleamless chatting experience.
+
+- project: Todo_App
+  role: Primary Developer - Flutter, Dart, Firebase
+  duration: May'25 2023
+  url: "https://github.com/harsh082ip/Todo_App"
+  description: A fully functional Todo App with authentication.
+
+- project: QR-BAR_Code_Scanner
+  role: Primary Developer - Flutter, Dart
+  duration: June'14 2023
+  url: "https://github.com/harsh082ip/QR-BAR_Code_Scanner"
+  description: A fully functional application which can scan QR/BAR code and shows up the result.
+
+- project: Calculator App
+  role: Primary Developer - Flutter, Dart
+  duration: May'3 2023
+  url: "https://github.com/harsh082ip/CalculatorApp"
+  description: A fully functional Calculator App with all the basic functionalities.
+
+- project: Cars and Pedestrians Tracker
+  role: Primary Developer - Python, OpenCv
+  duration: May'3 2023
+  url: "https://github.com/harsh082ip/Cars_and_Pedestrians_Tracker"
+  description: A fully functional program which can track cars and pedestrians.
+
+- project: RealTime_face_detection-Python
+  role: Primary Developer - Python, OpenCv
+  duration: May'2 2023
+  url: "https://github.com/harsh082ip/RealTime_face_detection-Python"
+  description: A program which can detect Real-Time faces using a physical camera.
+
