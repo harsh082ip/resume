@@ -2,7 +2,8 @@
 
 *I'm Harsh Vardhan Singh, an experienced Flutter developer on a mission to craft sleek and user-friendly mobile applications. What sets my tech journey apart is my boundless curiosity for cloud computing; I'm enthusiastic about harnessing its transformative power to create cutting-edge solutions. Based in the enchanting and diverse landscapes of India, I channel the vibrancy of my surroundings into my work, constantly pushing the boundaries of innovation. My commitment to staying at the forefront of app development and cloud technologies drives me to deliver seamless digital experiences and drive real-world impact.*
 
-![img](images/screenshot.png)
+![Screenshot 2023-10-23 053207](https://github.com/harsh082ip/resume/assets/109286547/b025fa04-a97d-446a-84b4-51768093902d)
+
 
 ## Docs
 
